@@ -4,8 +4,6 @@
 > 📅 **Watched:** June 2026  
 > 🏷️ **Tags:** `system-design` `databases` `postgres` `sharding` `scaling` `backend`
 
----
-
 ## ⚡ TL;DR (Quick Revision)
 
 Instagram ran on a **single Postgres database** until 27 million users. When they hit limits, instead of switching to NoSQL, they scaled Postgres itself using three key techniques:
